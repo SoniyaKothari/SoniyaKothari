@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Soniya Kothari
 
-<!--
-**SoniyaKothari/SoniyaKothari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=SoniyaKothari&label=Profile%20views&color=b60e75&style=flat)
 
-Here are some ideas to get you started:
+Building with Cloud. Automating with Purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about Cloud Computing and DevOps, I focus on building scalable solutions, automating workflows, and working with modern DevOps and Cloud tools.
+
+---
+
+## 🔹 Current Projects
+- **Jamify** – A sleek music player app with a simple user experience
+- **DjangoWeather** – Real-time weather web app using Django and OpenWeatherMap API
+
+---
+
+## 🔹 Areas of Interest
+- CI/CD pipeline automation
+- Scalable cloud-native app development
+- Infrastructure as Code & container orchestration
+
+---
+
+## 🔹 Technical Skills
+
+**Cloud & DevOps:**
+- AWS (EC2, IAM, Load Balancer)
+- Docker, Kubernetes
+- Jenkins (CI/CD)
+
+**Scripting & Programming:**
+- Shell Scripting
+- Java, Python
+
+**Tools & Platforms:**
+- Git & GitHub
+- Linux (Ubuntu)
+- VS Code, Git CLI
+
+---
+
+## 🔹 Reach Out
+
+📫 Email: soniyakothari06@gmail.com  
+🔗 GitHub: [github.com/SoniyaKothari](https://github.com/SoniyaKothari)  
+🔗 LinkedIn: [linkedin.com/in/soniya-kothari-852b6a303](https://www.linkedin.com/in/soniya-kothari-852b6a303)
