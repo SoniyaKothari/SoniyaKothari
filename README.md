@@ -1,7 +1,4 @@
-# Soniya Kothari 
-
 <h1 align="center">Soniya Kothari</h1>
-
 ## About Me
 
 I'm Soniya Kothari, a final-year Cloud Computing student specializing in DevOps engineering and infrastructure automation. I'm passionate about building scalable, reliable systems through modern DevOps practices, infrastructure as code, and cloud-native technologies.
