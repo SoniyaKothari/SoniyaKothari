@@ -39,5 +39,3 @@ My expertise includes designing and implementing CI/CD pipelines, container orch
 </p>
 
 ---
-
-**"Building the future, one deployment at a time"**
