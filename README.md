@@ -26,7 +26,6 @@ My expertise includes designing and implementing CI/CD pipelines, container orch
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/prometheus.svg" alt="Prometheus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/grafana.svg" alt="Grafana" width="40" height="40"/>
   <img src="https://grafana.com/static/img/logos/logo-loki.svg" alt="Loki" width="40" height="40"/>
-  <img src="https://grafana.com/static/img/logos/logo-loki.svg" alt="Promtail" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
