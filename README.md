@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Soniya Kothari, a final-year Cloud Computing student specializing in DevOps engineering and I'm fascinated by how a single line of code can impact millions when deployed the right way. That curiosity has led me to explore DevOps-where automation, reliability, and collaboration come together.
+I'm Soniya Kothari, a final-year Cloud Computing student specializing in DevOps engineering, I'm fascinated by how a single line of code can impact millions when deployed the right way. That curiosity has led me to explore DevOps-where automation, reliability, and collaboration come together.
 
 I'm learning the ropes of AWS, Docker, Kubernetes, and Terraform, while practicing with personal projects that mimic real-world systems. For me, DevOps isn't just about mastering tools-it's about building habits of problem-solving, automation, and continuous improvement.
 
