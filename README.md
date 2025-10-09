@@ -2,9 +2,11 @@
 
 ## About Me
 
-I'm Soniya Kothari, a final-year Cloud Computing student specializing in DevOps engineering and infrastructure automation. I'm passionate about building scalable, reliable systems through modern DevOps practices, infrastructure as code, and cloud-native technologies.
+I'm Soniya Kothari, a final-year Cloud Computing student specializing in DevOps engineering and I'm fascinated by how a single line of code can impact millions when deployed the right way. That curiosity has led me to explore DevOps-where automation, reliability, and collaboration come together.
 
-My expertise includes designing and implementing CI/CD pipelines, container orchestration, infrastructure automation, and monitoring solutions. I believe in creating systems that are not just functional but also maintainable, secure, and efficient.
+I'm learning the ropes of AWS, Docker, Kubernetes, and Terraform, while practicing with personal projects that mimic real-world systems. For me, DevOps isn't just about mastering tools-it's about building habits of problem-solving, automation, and continuous improvement.
+
+I aspire to grow into a DevOps Engineer who doesn't just deliver pipelines, but helps deliver innovation.
 
 ## Tech Stack
 
